@@ -1,3 +1,6 @@
+com/borgesan/bean/RestPokemon.class
 com/borgesan/Application.class
 com/borgesan/controller/HomeController.class
+com/borgesan/infra/SwaggerConfig.class
 com/borgesan/bean/Pokemon.class
+com/borgesan/controller/PokemonRestController.class

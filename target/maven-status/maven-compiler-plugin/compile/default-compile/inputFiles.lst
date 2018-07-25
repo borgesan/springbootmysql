@@ -1,3 +1,6 @@
-/Users/borgesan/Code/sptemplate/src/main/java/com/borgesan/controller/HomeController.java
-/Users/borgesan/Code/sptemplate/src/main/java/com/borgesan/Application.java
-/Users/borgesan/Code/sptemplate/src/main/java/com/borgesan/bean/Pokemon.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/Application.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/bean/RestPokemon.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/controller/PokemonRestController.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/infra/SwaggerConfig.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/controller/HomeController.java
+/Users/borgesan/Code/springbootmysql/src/main/java/com/borgesan/bean/Pokemon.java
